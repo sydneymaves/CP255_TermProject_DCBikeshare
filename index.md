@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Syd's GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/sydneymaves/CP255_TermProject_DCBikeshare/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
