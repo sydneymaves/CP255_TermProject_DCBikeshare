@@ -1,5 +1,5 @@
 # CP255 Urban Informatics Term Project: Analyzing Safety and Equity Implications of Bikeshare Locations in Washington, D.C.
-Created by Sydney Maves | 5.9.2022
+_Created by Sydney Maves | 5.9.2022_
 
 ## Research Idea
 Since the COVID-19 pandemic as more people have begun to work-from-home and and as leisure and social activities have changed, there has been more unpredictability in travel patterns. Peak commute times have become more spread throughout the day, and modal shifts have also occurred.
