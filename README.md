@@ -47,9 +47,9 @@ To conduct a basic equity indicators, I will be using two US Census datasets.
 
 ## Data Exploration & Local Context
 
-![yearcount_biketype](https://user-images.githubusercontent.com/95829239/166126102-99625384-e405-4e76-a7ff-52d1246cb833.png)
+![yearcount_biketype](https://user-images.githubusercontent.com/95829239/166126144-050703e3-2edd-486a-984d-6cee75ecb2ce.png)
 
-![users_day](https://user-images.githubusercontent.com/95829239/166126112-bf7e61b8-790b-4164-9981-efaa62da011f.png)
+![users_day](https://user-images.githubusercontent.com/95829239/166126148-57fb41e6-0b6c-462b-92cf-8a9e54f71e9c.png)
 
 ![line_mem_cas](https://user-images.githubusercontent.com/95829239/166125226-f8ebef81-f16b-423f-af47-eb9974ed554a.png)
 
