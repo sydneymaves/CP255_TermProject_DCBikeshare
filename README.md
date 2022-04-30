@@ -46,9 +46,9 @@ To conduct a basic equity indicators, I will be using two US Census datasets.
 2. Median Household Income (ACS 2020 5-Year Table S1901)
 
 ## Data Exploration & Local Context
-![yearcount_biketype](https://user-images.githubusercontent.com/95829239/166126175-1dc15dd5-32e2-4540-9042-c3b07c03b288.png)
+![yearcount_biketype](https://user-images.githubusercontent.com/95829239/166126424-4bb00a7e-f367-4f82-9e03-ee73bb1e3ad1.png)
 
-![users_day](https://user-images.githubusercontent.com/95829239/166126180-359226ba-751e-4e89-8af6-c0d382099812.png)
+![users_day](https://user-images.githubusercontent.com/95829239/166126426-dcb68f05-7d30-4fb4-8e3a-d64434a95016.png)
 
 ![line_mem_cas](https://user-images.githubusercontent.com/95829239/166125226-f8ebef81-f16b-423f-af47-eb9974ed554a.png)
 
