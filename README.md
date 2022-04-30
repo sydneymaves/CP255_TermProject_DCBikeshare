@@ -53,11 +53,11 @@ To conduct a basic equity indicators, I will be using two US Census datasets.
 
 The table above reveals...
 
-![weekday_cas_member](https://user-images.githubusercontent.com/95829239/166122291-08854476-4000-4358-9ba9-9cc8a75940d2.png)
-
 ![line_mem_cas](https://user-images.githubusercontent.com/95829239/166125226-f8ebef81-f16b-423f-af47-eb9974ed554a.png)
 
 ![weekday_classic_electric](https://user-images.githubusercontent.com/95829239/166125232-7d81b058-0802-4985-a7fa-a06dd87f7711.png)
+
+![weekday_cas_member](https://user-images.githubusercontent.com/95829239/166122291-08854476-4000-4358-9ba9-9cc8a75940d2.png)
 
 
 
