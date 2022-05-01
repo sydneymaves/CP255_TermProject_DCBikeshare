@@ -8,7 +8,8 @@ Since the COVID-19 pandemic as more people have begun to work-from-home and and 
 
 In this project, I will be exploring Washington D.C.'s Capital Bikeshare user data to examine how access to the system varies across throughout the city. This project will focus primarily on two important aspects of a bikeshare system - safety and equity - to understand if bikeshare locations are sited equitably and accessible to lower-income communities. While Capital Bikeshare has a program - Capital Bikeshare for All - geared towards improving system access, it is focused primarily on providing monetary assistance to lower-income folks. As you can see in the maps below which highlight geographic separation of high vs. low income households and percentage white vs. percentage black communities, Washington, DC is segregated, with the western parts of the city being more white and wealthy and the eastern parts of the city being more black and lower income. While this is a heavily simplified model to map equity, it begins to show a spatial pattern of where folks of differing levels of resources may be concentrated.  
 
-![equity](https://user-images.githubusercontent.com/95829239/166126840-0ea9b57e-d4f0-46e6-a9b1-2f2afa358c67.png)
+![equity2](https://user-images.githubusercontent.com/95829239/166126866-372e6af9-cc94-440f-84aa-198a04473812.png)
+
 
 This study hopes to provide data-driven support for expanding this program to begin constructing stations in communities that lack adequate access to the system. Secondly, it will explore where bikeshare users are likely riding to understand users are riding on the high injury network, ultimately highlighting where the city may consider putting additional resources towards bicycle-friendly infrastructure. 
 
