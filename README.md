@@ -15,7 +15,7 @@ This study hopes to provide data-driven support for expanding this program to be
 
 While there are some bikeshare stations located outside of the District of Columbia (Figure XX), the vast majority of stations are located within the District. This scope of this analysis and data used in this study, therefore, uses only data for Washington, DC. 
 
-<iframe src="explore_map.html" height="500" width="500"></iframe>
+![INTRO MAP](/explore_map.html)
 
 ## Research Questions
 This project is guided by four main guiding questions. The first two sets of questions (1) User Trends and (2) Station Data are geared towards exploring the dataset in a variety of ways to understand basic user characteristics and trends.  
