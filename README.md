@@ -10,14 +10,17 @@ In this project, I will be exploring Washington D.C.'s Capital Bikeshare user da
 
 ![equity2](https://user-images.githubusercontent.com/95829239/166126866-372e6af9-cc94-440f-84aa-198a04473812.png)
 
+![equity_totalpop_income2](https://user-images.githubusercontent.com/95829239/167264010-ff63c585-17d1-49f5-9991-93edcc05cdc2.png)
+
+![equity_black_white2](https://user-images.githubusercontent.com/95829239/167264026-522c7e75-ff5a-4d24-9a9a-8d2bc292724b.png)
+
 
 This study hopes to provide data-driven support for expanding this program to begin constructing stations in communities that lack adequate access to the system. Secondly, it will explore where bikeshare users are likely riding to understand users are riding on the high injury network, ultimately highlighting where the city may consider putting additional resources towards bicycle-friendly infrastructure. 
 
-While there are some bikeshare stations located outside of the District of Columbia (Figure XX), the vast majority of stations are located within the District. This scope of this analysis and data used in this study, therefore, uses only data for Washington, DC.
+While there are some bikeshare stations located outside of the District of Columbia (see map below), the vast majority of stations are located within the District. This scope of this analysis and data used in this study, therefore, uses only data for Washington, DC. Click on the link below to learn more about where bike stations are located throughout the region.
 
-
-
-[INTRO MAP](https://sydneymaves.github.io/CP255_TermProject_DCBikeshare/explore_map.html)
+[Click Here to View the Interactive Introductory Map](https://sydneymaves.github.io/CP255_TermProject_DCBikeshare/explore_map.html)
+![IntroMap_ScreenShot](https://user-images.githubusercontent.com/95829239/167264130-09d75709-2684-495f-9f42-bd73ef9e5ddf.png)
 
 ## Research Questions
 This project is guided by four main guiding questions. The first two sets of questions (1) User Trends and (2) Station Data are geared towards exploring the dataset in a variety of ways to understand basic user characteristics and trends.  
