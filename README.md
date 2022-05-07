@@ -68,6 +68,10 @@ To conduct a basic equity indicators, I will be using two US Census datasets.
 
 ![weekday_cas_member](https://user-images.githubusercontent.com/95829239/166125761-11f6193e-4e3d-4b6b-b311-213e3208e65f.png)
 
+![heatmap_startloc2](https://user-images.githubusercontent.com/95829239/167267500-a81f1c70-c53a-4026-abc6-ee01154086f1.png)
+![heatmap_startloc2](https://user-images.githubusercontent.com/95829239/167267509-b4620ded-e09e-40a6-a999-94bbbd5f19f8.png)
+
+
 
 
 ## Key Findings
@@ -88,4 +92,3 @@ United States Census Bureau. 2020a. “DP05: ACS Demographic and Housing Estimat
 
 ———. 2020b. “S1901: Income in the Past 12 Months (in 2020 Inflation-Adjusted Dollars) (ACS 5-Year).” 2020. https://data.census.gov/cedsci/table?q=s1901&tid=ACSST5Y2020.S1901.
 
-![heatmap_startloc2](https://user-images.githubusercontent.com/95829239/167267386-9d284945-8661-476c-a3f5-e5e9db4cb986.png)
