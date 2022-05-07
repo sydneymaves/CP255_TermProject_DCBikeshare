@@ -8,12 +8,9 @@ Since the COVID-19 pandemic as more people have begun to work-from-home and and 
 
 In this project, I will be exploring Washington D.C.'s Capital Bikeshare user data to examine how access to the system varies across throughout the city. This project will focus primarily on two important aspects of a bikeshare system - safety and equity - to understand if bikeshare locations are sited equitably and accessible to lower-income communities. While Capital Bikeshare has a program - Capital Bikeshare for All - geared towards improving system access, it is focused primarily on providing monetary assistance to lower-income folks. As you can see in the maps below which highlight geographic separation of high vs. low income households and percentage white vs. percentage black communities, Washington, DC is segregated, with the western parts of the city being more white and wealthy and the eastern parts of the city being more black and lower income. While this is a heavily simplified model to map equity, it begins to show a spatial pattern of where folks of differing levels of resources may be concentrated.  
 
-![equity2](https://user-images.githubusercontent.com/95829239/166126866-372e6af9-cc94-440f-84aa-198a04473812.png)
-
 ![equity_totalpop_income2](https://user-images.githubusercontent.com/95829239/167264010-ff63c585-17d1-49f5-9991-93edcc05cdc2.png)
 
 ![equity_black_white2](https://user-images.githubusercontent.com/95829239/167264026-522c7e75-ff5a-4d24-9a9a-8d2bc292724b.png)
-
 
 This study hopes to provide data-driven support for expanding this program to begin constructing stations in communities that lack adequate access to the system. Secondly, it will explore where bikeshare users are likely riding to understand users are riding on the high injury network, ultimately highlighting where the city may consider putting additional resources towards bicycle-friendly infrastructure. 
 
@@ -42,6 +39,7 @@ _Network Analysis_
 What roads are most often taken by bikeshare users (utilizing shortest distance)? How can bikeshare data be used to prioritize certain roads for active pedestrian roadway improvements?
 
 ## Approach & Methodology (Finish this)
+
 
 I will also be utilizing the OpenStreetMap (OSMnx) Shortest Path Algorithm to predict which cooridors are most frequently taken by bikeshare users. With this data, I hope to highlight where additional stations could be added to improve access to the bikeshare for more vulnerable populations. Using the results from my network analysis, active transportation planners in Washington, DC can prioritize facility improvements on high bikeshare (and likely traditional bike commuter) corridors. 
 
@@ -75,3 +73,20 @@ To conduct a basic equity indicators, I will be using two US Census datasets.
 ## Key Findings
 
 ## References
+Anderson, Karl, Samuel D. Blanchard, Derek Cheah, and Drew Levitt. 2017. “Incorporating Equity and Resiliency in Municipal Transportation Planning: Case Study of Mobility Hubs in Oakland, California.” Transportation Research Record: Journal of the Transportation Research Board 2653 (1): 65–74. https://doi.org/10.3141/2653-08.
+
+Boeing, Geoff. (2017) 2022. OSMnx Examples. Jupyter Notebook. https://github.com/gboeing/osmnx-examples/blob/4ad81595cf7ac1a5898c2d88abae792839f40330/notebooks/13-isolines-isochrones.ipynb.
+
+Brown, Brytanee. 2017. “OakMob 101: A Case Study in Expanding Access to Shared Mobility.” TransForm. July 10, 2017. https://www.transformca.org/transform-report/oakmob-101-case-study-expanding-access-shared-mobility.
+
+Capital Bikeshare. 2022. “System Data.” Capital Bikeshare. 2022. http://ride.capitalbikeshare.com/system-data.
+
+McNeil, Nathan, John MacArthur, Joseph Broach, Austin Cummings, Rae-Leigh Stark, Rebecca Sanders, and Adrian Witte. 2019. “National Scan of Bike Share Equity Programs: Approaches and Best Practices for Promoting Equity in Bike Share.” TREC Final Reports, July. https://doi.org/10.15760/trec.224.
+Open Data DC. 2022. “Open Data DC.” 2022. https://opendata.dc.gov/.
+
+United States Census Bureau. 2020a. “DP05: ACS Demographic and Housing Estimates (ACS 5-Year Estimates).” 2020. https://data.census.gov/cedsci/table?q=dp05.
+
+———. 2020b. “S1901: Income in the Past 12 Months (in 2020 Inflation-Adjusted Dollars) (ACS 5-Year).” 2020. https://data.census.gov/cedsci/table?q=s1901&tid=ACSST5Y2020.S1901.
+
+![heatmap_startloc](https://user-images.githubusercontent.com/95829239/167267226-ea562896-5e11-4851-aea4-d7019728d87e.png)
+![heatmap_endloc](https://user-images.githubusercontent.com/95829239/167266618-82e5617d-e10e-426e-bf2a-a58113a4352c.png)
