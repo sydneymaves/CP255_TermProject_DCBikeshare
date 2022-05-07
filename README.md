@@ -88,5 +88,4 @@ United States Census Bureau. 2020a. “DP05: ACS Demographic and Housing Estimat
 
 ———. 2020b. “S1901: Income in the Past 12 Months (in 2020 Inflation-Adjusted Dollars) (ACS 5-Year).” 2020. https://data.census.gov/cedsci/table?q=s1901&tid=ACSST5Y2020.S1901.
 
-![heatmap_startloc](https://user-images.githubusercontent.com/95829239/167267226-ea562896-5e11-4851-aea4-d7019728d87e.png)
-![heatmap_endloc](https://user-images.githubusercontent.com/95829239/167266618-82e5617d-e10e-426e-bf2a-a58113a4352c.png)
+![heatmap_startloc2](https://user-images.githubusercontent.com/95829239/167267386-9d284945-8661-476c-a3f5-e5e9db4cb986.png)
