@@ -49,7 +49,7 @@ I also attempted to utilizing the OpenStreetMap (OSMnx) and NetworkX to sum all 
 * Python Packages
     * Seaborn
     * Matplotlib
-    * Plotly
+    * Plotly Express
     * Pandas
     * Geopandas
     * Contextly
@@ -57,8 +57,9 @@ I also attempted to utilizing the OpenStreetMap (OSMnx) and NetworkX to sum all 
     * NetworkX
 * Maps Integrated - Used to geographically place my maps into the Washington, DC context.
     * CARTO 
-    * MapBox
+    * MapBox GL
     * Leaflet 
+    * Folium
 
 ### Datasets
 
@@ -113,7 +114,13 @@ Please also use the below interactive map to see exactly how many rides were tak
 ![Screen Shot 2022-05-07 at 9 24 18 PM](https://user-images.githubusercontent.com/95829239/167281676-e9d28ab7-8f86-487a-b9d4-15efe0c50ebe.png)
 
 
-## Takeaways & Next Steps
+## Next Steps
+
+As I mentioned previously, I would have really liked to figure out how to use OSMnx and NetworkX to find the shortest path between two nodes and to create isochrone maps. I was able to create a aggregate the number of rides going from one station to every combination of end locations for a given month and then locate the nearest ox_node to each of those start and end station locations. I have, however, had difficulty figuring out how to iterate through this list of unique start-end location pairs and identify the shortest path traveled. I would like to continue learning about OSMnx to hopefully complete this work in the future. 
+
+I also came close to being able to being able ot create an isochrone map, but I was unable to iterate through each of the 675 bike stations that exist in the region. I was hoping to create 2,4,6 minute walking distance isochrone maps (see image below). 
+
+![Screen Shot 2022-05-07 at 9 47 06 PM](https://user-images.githubusercontent.com/95829239/167282259-f9052c53-b827-49b9-823b-395068740fe9.png)
 
 ## References
 Anderson, Karl, Samuel D. Blanchard, Derek Cheah, and Drew Levitt. 2017. “Incorporating Equity and Resiliency in Municipal Transportation Planning: Case Study of Mobility Hubs in Oakland, California.” Transportation Research Record: Journal of the Transportation Research Board 2653 (1): 65–74. https://doi.org/10.3141/2653-08.
