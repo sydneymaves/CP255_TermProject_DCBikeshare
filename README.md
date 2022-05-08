@@ -75,9 +75,11 @@ To conduct a basic equity indicators, I will be using two US Census datasets.
 Firstly, I'd like to present a four exploratory charts which highlight basic bikeshare user trends for the 2021 calendar year. 
 
 In 2021, approximately 2.4 million people road a Capital Bikeshare bicycle. Of which, approximately 267,000 (11%) were taken on an e-bike and 2,120,000 (89%) were taken on a classic docking bike.
+
 ![yearcount_biketype](https://user-images.githubusercontent.com/95829239/166126424-4bb00a7e-f367-4f82-9e03-ee73bb1e3ad1.png)
 
 Unsurprisingly, the most popular day to ride a Capital Bikeshare bike is Saturday, followed by Sunday. Monday is the least common day to ride. This map highlights that people may most often be utilizing Capital Bikeshare for leisure on non-work days. This may provide support for bolstering the network in common places of recreation and leisure, for example, along Rock Creek Park, the National Mall, Georgetown, and near the Arboretum.
+
 ![users_day](https://user-images.githubusercontent.com/95829239/166126426-dcb68f05-7d30-4fb4-8e3a-d64434a95016.png)
 
 ![crosstab_heatmap_week](https://user-images.githubusercontent.com/95829239/166127681-e67c6c0a-51b0-4d5f-8fce-1b9543b6c722.png)
