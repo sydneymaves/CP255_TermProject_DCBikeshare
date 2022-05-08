@@ -87,6 +87,10 @@ Casual riders also tend to ride for much longer time lengths (between 20-23 minu
 
 ![weekday_cas_member](https://user-images.githubusercontent.com/95829239/167281073-b25a6b32-0691-4618-b040-ea215ede9068.png)
 
+The bar graph below shows the top 10 stations, all located near each other in downtown DC. As shown on the chart, the most utilized station was the start location for approximately 29,000 trips in 2021. Although not shown on this visual, some stations were the start location of even just one to two rides. This may be because they are in an undesirable location or were put out of commission. It would be valuable for bikeshare planners to study why these stations are underutilized and consider placing them in more opportune areas. On average, each station was the start location for approximately 3,400 rides in 2021.
+
+![Top_10_Stations](https://user-images.githubusercontent.com/95829239/167320938-0180ec2e-9a43-4759-b063-9462734da031.png)
+
 During the weekdays, the peak times to ride are 5-6pm. On the weekends, the most common time to ride are between 11am-3pm. In future iterations of this work, I would like to figure out how to index through the days of the week to order them consecutively Monday through Friday instead of having the weekend appear in the middle of this seaborn heatmap. 
 
 ![crosstab_heatmap_week](https://user-images.githubusercontent.com/95829239/166127681-e67c6c0a-51b0-4d5f-8fce-1b9543b6c722.png)
