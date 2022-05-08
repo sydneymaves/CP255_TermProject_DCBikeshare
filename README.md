@@ -103,8 +103,15 @@ Next, I wanted to explore spatially where people are riding to and from on diffe
 ![heatmap_startloc2](https://user-images.githubusercontent.com/95829239/167267500-a81f1c70-c53a-4026-abc6-ee01154086f1.png)
 ![heatmap_endloc2](https://user-images.githubusercontent.com/95829239/167269906-ccd534d7-279d-4207-828f-765200584ff1.png)
 
-Finally 
-![bubble_blackpop_overlay2](https://user-images.githubusercontent.com/95829239/167271501-adbcf777-8410-418e-b2e4-abc88e8c7df2.png)
+The final map, shown below, overlays a count of the number of rides _starting_ from each station with a cloropleth map of percent of tract that is black. This map begins to highlight the degree to which rides (and to some degree, stations) are located in the more afflient, whiter northwest parts of DC (areas shown in light yellow). The size of the bubble reveals how many bike rides were _started_ from a particular station. The smallest bubbles show were as few as three riders were taken and the largest bubbles show where as many as 1,600 rides were started. Factors which may contribute to low ridership in part some parts of hte city, particularly the southwestern area to the east of the Anacostia river include, low frequency of stations, inadequate bike redistribution, lower membership in the certain communities, and geographic barriers (e.g. the river).  To promote equitable access and usage of the bikeshare system, Capital Bikeshare should consider these factors and continue building out stations in the southeast and northest portions of the city (shown in dark red and red, respectively).
+
+![bubble_blackpop_overlay3](https://user-images.githubusercontent.com/95829239/167281393-358ddec5-aad0-4a8d-b617-a51d0d7e9947.png)
+
+Please also use the below interactive map to see exactly how many rides were taken througout the city. Please note that some stations especially in the southeast portion of the city do not even have visible bubbles for stations, due to low ridership. Capital Bikeshare may also benefit from community outreach geared towards the communities east of the Anacostia to see how this system could better serve their needs (and if it even is a system that they'd like to see more of). 
+
+[Click Here to View the Interactive Bubble Map]
+![Screen Shot 2022-05-07 at 9 24 18 PM](https://user-images.githubusercontent.com/95829239/167281676-e9d28ab7-8f86-487a-b9d4-15efe0c50ebe.png)
+
 
 ## Takeaways & Next Steps
 
