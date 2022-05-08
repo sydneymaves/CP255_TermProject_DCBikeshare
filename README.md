@@ -76,26 +76,37 @@ Firstly, I'd like to present a four exploratory charts which highlight basic bik
 
 In 2021, approximately 2.4 million people road a Capital Bikeshare bicycle. Of which, approximately 267,000 (11%) were taken on an e-bike and 2,120,000 (89%) were taken on a classic docking bike.
 
-![yearcount_biketype](https://user-images.githubusercontent.com/95829239/166126424-4bb00a7e-f367-4f82-9e03-ee73bb1e3ad1.png)
+![yearcount_biketype](https://user-images.githubusercontent.com/95829239/167280730-28bf4510-eba6-4e44-a0eb-440f92bf3d09.png)
 
 Unsurprisingly, the most popular day to ride a Capital Bikeshare bike is Saturday, followed by Sunday. Monday is the least common day to ride. This map highlights that people may most often be utilizing Capital Bikeshare for leisure on non-work days. This may provide support for bolstering the network in common places of recreation and leisure, for example, along Rock Creek Park, the National Mall, Georgetown, and near the Arboretum.
 
 ![users_day](https://user-images.githubusercontent.com/95829239/166126426-dcb68f05-7d30-4fb4-8e3a-d64434a95016.png)
 
+Casual riders also tend to ride for much longer time lengths (between 20-23 minutes, on average) than members (11-12 minutes). This may be because they're paying a flat rate for each ride and they want to maximize the value of that ride. Again we see that Saturday and Sunday see the longest rides. 
+
+![weekday_cas_member](https://user-images.githubusercontent.com/95829239/167281073-b25a6b32-0691-4618-b040-ea215ede9068.png)
+
+During the weekdays, the peak times to ride are 5-6pm. On the weekends, the most common time to ride are between 11am-3pm. In future iterations of this work, I would like to figure out how to index through the days of the week to order them consecutively Monday through Friday instead of having the weekend appear in the middle of this seaborn heatmap. 
+
 ![crosstab_heatmap_week](https://user-images.githubusercontent.com/95829239/166127681-e67c6c0a-51b0-4d5f-8fce-1b9543b6c722.png)
+
+When looking at a count of rides by members and casual riders (individuals paying per ride), we see that the most common time to ride is in the summe months, peaking in October. This trend remains consistent for both rider types. Ridership numbers dip significantly in the winter months, likely due to the cold weather and fewer daylight hours. 
 
 ![line_mem_cas](https://user-images.githubusercontent.com/95829239/166125226-f8ebef81-f16b-423f-af47-eb9974ed554a.png)
 
+Interestingly, the number of rides taken each month on an electric bike remains pretty consistant over the year (approximately 25,000 rides/month). This may be due to the extra cost of riding these bikes or due to the system capacity. After a certain number of miles ride, an e-bike will be out of commission while it recharges. Similarly to what we saw in the previous line chart, the most popular month to ride is in October, peatering off through the winter months. It is interesting to see that August sees a small dip in ridership, and this may be due to hot, humid weather or rainfall. 
+
 ![weekday_classic_electric](https://user-images.githubusercontent.com/95829239/166125232-7d81b058-0802-4985-a7fa-a06dd87f7711.png)
 
-![weekday_cas_member](https://user-images.githubusercontent.com/95829239/166125761-11f6193e-4e3d-4b6b-b311-213e3208e65f.png)
+Next, I wanted to explore spatially where people are riding to and from on different days of the week. Below are six heatmaps which show in column one, areas which see the highest number of rides/from stations on any day of the week. The middle column looks at where riders are going to/from on weekdays. The final column looks ar where riders are going to/from on the weekends. Really surprisingly, there is almost no variation between areas which saw a high concentration of ride starts/ends at all. I really thought I would see that on the weekends for example, there would be a high concentration (shown in yellow) of bike starts/ends along the National Mall. If I were to have been able to complete the OSMnx Network analysis, I would have been able to shed additional light on where a large number of riders are commuting to and from. 
 
 ![heatmap_startloc2](https://user-images.githubusercontent.com/95829239/167267500-a81f1c70-c53a-4026-abc6-ee01154086f1.png)
 ![heatmap_endloc2](https://user-images.githubusercontent.com/95829239/167269906-ccd534d7-279d-4207-828f-765200584ff1.png)
 
+Finally 
 ![bubble_blackpop_overlay2](https://user-images.githubusercontent.com/95829239/167271501-adbcf777-8410-418e-b2e4-abc88e8c7df2.png)
 
-## Key Findings
+## Takeaways & Next Steps
 
 ## References
 Anderson, Karl, Samuel D. Blanchard, Derek Cheah, and Drew Levitt. 2017. “Incorporating Equity and Resiliency in Municipal Transportation Planning: Case Study of Mobility Hubs in Oakland, California.” Transportation Research Record: Journal of the Transportation Research Board 2653 (1): 65–74. https://doi.org/10.3141/2653-08.
