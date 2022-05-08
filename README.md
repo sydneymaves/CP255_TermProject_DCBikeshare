@@ -37,7 +37,7 @@ Where should Capital Bikeshare expand their operations to further equity priorit
 _Network Analysis (Future Work)_
 What roads are most often taken by bikeshare users (utilizing shortest distance)? How can bikeshare data be used to prioritize certain roads for active pedestrian roadway improvements?
 
-## Approach & Methodology (Finish this)
+## Approach & Methodology
 
 This project was completed using Python in Jupyter notebooks. Data was downloaded to CSV, shapefile, or loaded into Jupyter Notebooks via an API from various sources listed below (and in references). Python packages used in this analysis are described in the tools section below. The main data used in this analysis is from Capital Bikeshare's open data site (see reference). They share monthly ridership data on the start/end locations, time traveled, membership status, and bike type for each and every ride taken in the system. The first step of this research was to clean and process Capital Bikeshare's data (1 year) to get rid of outliers. As part of this, I eliminated rides that started and ended at the same station. I also eliminated rides that were in the top and bottom standard deviation in ride duration. This information was combined with American Communities Survey data to begin to understand station location in the context of (in)equities. ACS data was pulled into Jupyter Notebook using the Census API. 
 
