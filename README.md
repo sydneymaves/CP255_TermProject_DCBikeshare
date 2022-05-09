@@ -1,4 +1,4 @@
-# CP255 Urban Informatics Term Project: Increasing Equitable Access and Safety of Capital Bikeshare Station Locations in Washington, DC
+# CP255 Urban Informatics Term Project: Increasing Equitable Access of Capital Bikeshare Station Locations in Washington, DC
 
 Term Research Project for CP255 Urban Informatics + Visualization at UC Berkeley (Spring 2022)
 _Created by Sydney Maves | 5.9.2022_
