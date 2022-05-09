@@ -13,12 +13,10 @@ In this project, I will be exploring Washington D.C.'s Capital Bikeshare user da
 
 This study hopes to provide data-driven support constructing stations in communities that lack adequate access to the system as part of the Capital Bikeshare For All program. Unfortunately, I was unable to perform an OSMnx and NetworkX analysis to identify routes heavily used by bikeshare users as well as create isochrone to show which neighborhoods have inadequate access to the bikeshare. Initially, this study was also intended to explore the following where bikeshare users are likely riding to understand users are riding on the high injury network, ultimately highlighting where the city may consider putting additional resources towards bicycle-friendly infrastructure. This topic, however, will have to be covered in future research.  
 
-While there are some bikeshare stations located outside of the District of Columbia (see map below), the vast majority of stations are located within the District. The scope of this analysis and data used in this study, therefore, uses only data for Washington, DC. Only the points within the dotted line (District of Columbia region) on the map below are included in future analyses. Click on the link below to learn more about where bike stations are located throughout the region.
+While there are some bikeshare stations located outside of the District of Columbia (see map below), the vast majority of stations are located within the District. The scope of this analysis and data used in this study, therefore, uses only data for Washington, DC. Only the points within the dotted line (District of Columbia region) on the map below are included in future analyses. Click on the link below to learn more about where bike stations are located throughout the region. 
 
 [Click Here to View the Interactive Introductory Map](https://sydneymaves.github.io/CP255_TermProject_DCBikeshare/explore_map.html)
 ![IntroMap_ScreenShot](https://user-images.githubusercontent.com/95829239/167264130-09d75709-2684-495f-9f42-bd73ef9e5ddf.png)
-
-<iframe src=“explore_map.html”></iframe>
 
 ## Research Questions
 This project is guided by four main guiding questions. The first two sets of questions (1) User Trends and (2) Station Data are geared towards exploring the dataset in a variety of ways to understand basic user characteristics and trends.  
