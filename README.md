@@ -18,8 +18,6 @@ While there are some bikeshare stations located outside of the District of Colum
 [Click Here to View the Interactive Introductory Map](https://sydneymaves.github.io/CP255_TermProject_DCBikeshare/explore_map.html)
 ![IntroMap_ScreenShot](https://user-images.githubusercontent.com/95829239/167264130-09d75709-2684-495f-9f42-bd73ef9e5ddf.png)
 
-<iframe src=“https://sydneymaves.github.io/CP255_TermProject_DCBikeshare/explore_map.html”></iframe>
-
 ## Research Questions
 This project is guided by four main guiding questions. The first two sets of questions (1) User Trends and (2) Station Data are geared towards exploring the dataset in a variety of ways to understand basic user characteristics and trends.  
 
